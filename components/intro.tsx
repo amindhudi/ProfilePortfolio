@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import authorImage from '@/public/images/authors/20230122_135608.jpg'
+import authorImage from '@/public/images/authors/IMG-20230510-WA0003.jpg'
 
 export default function Intro() {
   return (
