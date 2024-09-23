@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/.vs/ProfilePortfolio
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
